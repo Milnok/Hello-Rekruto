@@ -7,4 +7,4 @@
 - python manage.py runserver
 
 # В браузере заходим по страничке:
-- http://127.0.0.1:8000/?name=Rekruto&message=Давай дружить!
+- http://127.0.0.1:8000/?name=Rekruto&message=Давай%20дружить!
