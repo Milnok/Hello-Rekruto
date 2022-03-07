@@ -1,7 +1,9 @@
-git clone
-
+В консоли:
+git clone https://github.com/Milnok/Hello-Rekruto
+cd Hello-Rekruto
+python -m venv venv
+.\venv\Scripts\activate
 pip install -r requirements.txt
-
 python manage.py runserver
 
 В браузере заходим по страничке:
